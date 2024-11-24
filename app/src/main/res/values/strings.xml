@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">TODO App</string>
+
+    <!-- TodoApp -->
+    <string name="title_todo_app">¡Bienvenido!</string>
+    <string name="categories_todo_app">Categorías</string>
+    <string name="tasks_todo_app">Tareas</string>
+    <string name="category_name_personal">Personal</string>
+    <string name="category_name_businness">Negocios</string>
+    <string name="category_name_others">Otros</string>
+    <string name="todo_dialog_add_task">Añade la tarea</string>
+    <string name="todo_button_add_task">Añadir tarea</string>
+</resources>
